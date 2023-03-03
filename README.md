@@ -24,5 +24,5 @@ This is a simple firebase util (php)
 * https://github.com/cafewill/simple-firebase-maven-jackson
 * https://github.com/cafewill/simple-firebase-gradle-gson
 * https://github.com/cafewill/simple-firebase-gradle-jackson 
-\
-and Firebase project guide : https://firebase.google.com/docs/guides
+
+* Firebase project guide : https://firebase.google.com/docs/guides
