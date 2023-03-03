@@ -20,7 +20,6 @@ This is a simple firebase util (php)
 * https://github.com/cafewill/simple-firebase-python 
 
 * https://github.com/cafewill/simple-firebase-maven-gson
-* https://github.com/cafewill/simple-firebase-maven-gson
 * https://github.com/cafewill/simple-firebase-maven-jackson
 * https://github.com/cafewill/simple-firebase-gradle-gson
 * https://github.com/cafewill/simple-firebase-gradle-jackson 
