@@ -1,6 +1,6 @@
 # simple-firebase-php
 
-This is a simple firebase util (php)
+This is a simple Firebase util (php)
 
 ## Features
 
@@ -16,6 +16,11 @@ This is a simple firebase util (php)
 
 ## See Also
 
+* https://github.com/cafewill/ios-cocoa-firebase
+* https://github.com/cafewill/ios-swift-firebase
+* https://github.com/cafewill/android-java-firebase
+* https://github.com/cafewill/android-kotlin-firebase
+
 * https://github.com/cafewill/simple-firebase-php
 * https://github.com/cafewill/simple-firebase-python 
 
@@ -24,4 +29,8 @@ This is a simple firebase util (php)
 * https://github.com/cafewill/simple-firebase-gradle-gson
 * https://github.com/cafewill/simple-firebase-gradle-jackson 
 
-* Firebase project guide : https://firebase.google.com/docs/guides
+* Xcode : https://developer.apple.com/xcode
+* CocoaPods guide : https://cocoapods.org
+* Android Studio : https://developer.android.com/studio
+
+* Firebase guide : https://firebase.google.com/docs/guides
