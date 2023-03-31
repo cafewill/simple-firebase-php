@@ -16,6 +16,11 @@ This is a simple Firebase util (php)
 
 ## See Also
 
+* https://github.com/cafewill/ios-cocoa-hybrid
+* https://github.com/cafewill/ios-swift-hybrid
+* https://github.com/cafewill/android-java-hybrid
+* https://github.com/cafewill/android-kotlin-hybrid
+
 * https://github.com/cafewill/ios-cocoa-firebase
 * https://github.com/cafewill/ios-swift-firebase
 * https://github.com/cafewill/android-java-firebase
@@ -34,3 +39,4 @@ This is a simple Firebase util (php)
 * Android Studio : https://developer.android.com/studio
 
 * Firebase guide : https://firebase.google.com/docs/guides
+
